@@ -4,6 +4,7 @@
 # RNASeq Cardounel
 ##Status:
   - Spreadsheets and figures are uploaded to box.
+  - Ran CollectRNASeqMetrics from Picard tools on Sample2pre, confirmed our suspicions of rRNA contamination.
   [] Updating Github
 
 # Aurora - Docker
