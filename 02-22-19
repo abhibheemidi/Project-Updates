@@ -1,0 +1,25 @@
+# Project Updates - Bheemidi (2/22/19)
+
+
+# RNASeq Cardounel
+##Status:
+  - Updating Github
+
+# Aurora - Docker/Snakemake
+## Status:
+  -Waiting on access to Aurora data files
+  [x] Getting Singularity set up locally
+  - Learning Snakemake
+      - Making Snakemake test pipeline for qc/alignment of reads
+
+# HIVMutAnalysis
+## Status:
+  - Ran into error on Fastx step
+  - Received new Fastx script from Rahil
+  [x] Run through rest of pipeline
+  - Run through Contamination Analysis once receive code from Rahil
+
+#RNASeq Puccio
+## Status:
+ [x] Updated Github 
+ - Waiting to hear if any further/alternate analysis needed
