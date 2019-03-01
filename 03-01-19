@@ -1,0 +1,23 @@
+# Project Updates - Bheemidi (03/01/19)
+
+
+# RNASeq Cardounel
+##Status:
+  - Updating Github
+ 
+# Aurora - Docker/Snakemake
+## Status:
+  -Waiting on access to Aurora data files
+  - Learning Snakemake
+      - Made sample Snakemake test pipeline for qc/alignment of reads
+  - Ran Nextflow pipeline on htc
+
+# HIVMutAnalysis
+## Status:
+  - Ran through rest of Mutation analysis pipeline
+  [] Run through Contamination Analysis once receive code from Rahil
+  
+  #Misc - Jupyter Notebooks
+  ## Status:
+    - Ran through an analysis using biojupies
+    [] Make a small notebook to potentially scale up to an entire pipeline
