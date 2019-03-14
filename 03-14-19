@@ -1,0 +1,20 @@
+# Project Updates - Bheemidi (03/14/19)
+
+
+# RShiny - CathyMa
+##Status:
+  - Finished primary app, still tweaking some details
+  [] Fix a couple bugs regarding the scatterplot
+ 
+# Aurora - Docker/Snakemake
+## Status:
+  - Waiting on access to Aurora data files
+
+# HIVMutAnalysis
+## Status:
+  [] Run through Contamination Analysis once receive code from Rahil
+  
+#Misc - Jupyter Notebooks
+## Status:
+  - Ran through an analysis using biojupies
+  - Made a small notebook to potentially scale up to an entire pipeline
