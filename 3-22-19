@@ -1,0 +1,19 @@
+# Project Updates - Bheemidi (03/22/19)
+
+
+# RShiny - CathyMa
+##Status:
+  - Finished primary app, still tweaking some details
+  - Fixed a couple bugs regarding the scatterplot
+  - Adapted structure of app to incorporate directionality of analysis
+  [] Get Feedback
+  [] Make code skeleton more flexible to other projects
+ 
+# RNASeq - Wei_WeiChen
+## Status:
+  [] Downloading files via FileZilla
+
+# Misc: HIVMutAnalysis
+## Status:
+  [] Run through Contamination Analysis once receive code from Rahil
+  
