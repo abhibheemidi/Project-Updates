@@ -1,0 +1,33 @@
+
+# Project Updates - Bheemidi (03/29/19)
+
+
+# RShiny - CathyMa
+##Status:
+  - Finished primary app, still tweaking some details
+  - Fixed a couple bugs regarding the scatterplot
+  - Adapted structure of app to incorporate directionality of analysis
+  - Updated with Chromosome Map and gene selection via DE table
+
+#Survival Analysis - CathyMa
+##Status:
+  - Received survival data
+  [] Going through tutorials on survival analysis and R package
+ 
+# RNASeq - Wei_WeiChen
+## Status:
+  - Downloaded and checked files
+  - Ran FastQC, Cutadapt
+  - Alex is taking lead for RNASeq for this project
+
+# Transcription Factor Analysis/GSEA - Kane
+##Status:
+  - Ran BioJupy, Transfac and Enrichr for Kane data.
+  - Results are on box for Transfac.
+  - Tried different databases with Enrichr but can't confirm specificity to mouse.
+  - For GSEA, results are uploaded to box - had one overrepresented gene set with fdr <0.05
+  - Tried GSEA preranked with DE genes but got error message. [] Will try again with different gene sets.
+  
+# Misc: HIVMutAnalysis
+## Status:
+  [] Run through Contamination Analysis once receive code from Rahil
